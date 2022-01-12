@@ -1,0 +1,1 @@
+If you wan to use mongodb docker container use the following command : "docker run --rm --name my-mongo -it -p 27017:27017 mongo:latest"
